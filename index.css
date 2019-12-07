@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("Software Engineer");
+    url("http://vob929.com/wp-content/uploads/2019/03/android-wallpaper-city-dark-248159.jpg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("Software Engineer") center center fixed;
+    url("http://vob929.com/wp-content/uploads/2019/03/android-wallpaper-city-dark-248159.jpg") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("Software Engineer") !important;
+      url("http://vob929.com/wp-content/uploads/2019/03/android-wallpaper-city-dark-248159.jpg") !important;
   }
 }
